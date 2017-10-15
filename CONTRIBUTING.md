@@ -1,4 +1,4 @@
- https://mapmap.slack.com/# Contribute to MapMap
+# Contribute to MapMap
 
 Thank you for contributing! MapMap is a community-built, maintained and operated project that welcomes contributions from everyone. Please read our [code of conduct](https://github.com/mapmapteam/mapmap/blob/develop/CODE_OF_CONDUCT.md)
 
@@ -19,7 +19,7 @@ It really helps us efficiently process your contribution!
 We love hearing about bugs! It's how we get them fixed. 
 
 - If you notice something odd happening, try to make it happen again (reproduce it). 
-- If you can reproduce it, try to figure out if it's caused by your code or by MapMap. 
+- If you can reproduce it, try to figure out if it's caused by the video format that you use or by MapMap. 
 - If it's caused by MapMap, make sure it **still occurs in the current development version** (where we continually fix problems) by checking out with git to the current `develop` branch of MapMap.
 - If it looks like it's caused by MapMap (or if you're not sure) and still occurs on the current `develop` branch, submit a bug report to the [issue tracker](https://github.com/mapmapteam/mapmap/issues).  - **Search the issue tracker** to make sure your problem has not been reported yet. If you find a relevant bug, comment there, even if it's an old or closed one! 
   - Only if you don't find a relevant issue, open a new issue. A new issue does not generate more exposure/visibility than commenting on an existing one.
